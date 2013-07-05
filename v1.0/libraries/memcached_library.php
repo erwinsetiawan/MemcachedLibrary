@@ -4,6 +4,7 @@
  * release date 07/13/2012
  * Author Erwin Setiawan 
  * visit http://erwinsetiawan.com
+ * contact erwin.stwn@gmail.com
  * Feel free to use it and please do not remove this text.
  */
 
